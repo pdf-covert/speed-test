@@ -49,6 +49,6 @@ cd speed-test
 
 ## 📄 项目信息
 
-- **开发者 / 发布者**：[jiantuo](https://github.com/pdf-covert)
+- **开发者 / 发布者**：[pdf-covert](https://github.com/pdf-covert)
 - **应用分类**：第三方应用（fnOS App Center）
 - **当前版本**：v1.0.0
