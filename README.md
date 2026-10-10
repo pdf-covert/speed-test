@@ -35,18 +35,6 @@
 3. 测速过程中可实时查看速度曲线、延迟与抖动数据
 4. 测速结果会自动保存到历史记录中
 
-## 🔧 从源码构建
-
-依赖：[fnpack](https://developer.fnnas.com/)（飞牛官方打包工具）、Go 1.x
-
-```bash
-git clone <本仓库>
-cd speed-test
-./build.sh
-```
-
-构建脚本会自动交叉编译 arm / x86 两个架构的 `speedtest-server`，并分别打包为 `.fpk` 输出到 `dist/` 目录。
-
 ## 📄 项目信息
 
 - **开发者 / 发布者**：[pdf-covert](https://github.com/pdf-covert)
